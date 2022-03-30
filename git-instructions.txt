@@ -1,0 +1,17 @@
+Git Commands
+
+git init - to initialise a repository on a local directory
+
+git add - to bring file to staging area
+
+git commit -m <message> - to 'save' file to repository
+
+git log - check the commit history before actually making commit
+
+git status - view the current staging files
+
+git reset - removing a staged file
+
+git diff - view the differences between staged files and original
+
+git restore - undo the changes made to the file by restoring from file saved on git

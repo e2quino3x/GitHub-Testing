@@ -1,0 +1,2 @@
+These are simple changes that I have made :)
+Testing out git diff
