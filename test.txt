@@ -1,2 +1,6 @@
 These are simple changes that I have made :)
 Testing out git diff
+
+Changes after a branch has been made...
+
+Changes that should lead to a conflict (error)
