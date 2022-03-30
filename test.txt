@@ -2,3 +2,7 @@ These are simple changes that I have made :)
 Testing out git diff
 
 hopefully error
+Changes after a branch has been made...
+
+Changes that should lead to a conflict (error)
+
